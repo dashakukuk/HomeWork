@@ -7,7 +7,7 @@ import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
     // задание полей
-    float matPlat = 70; // пальто
+    float matPlat = 70; // пальто/
     byte matPlatDiscount = 77; // скидка (в процентах)
     float ram = 25; // шляпа
     byte ramDiscount = 37;
